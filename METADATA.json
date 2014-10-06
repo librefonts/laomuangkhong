@@ -1,0 +1,24 @@
+{
+  "name": "Lao Muang Khong",
+  "designer": "Multiple Designers",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 6798,
+  "fonts": [
+    {
+      "name": "Lao Muang Khong",
+      "style": "normal",
+      "weight": 400,
+      "filename": "LaoMuangKhong-Regular.ttf",
+      "postScriptName": "LaoMuangKhong",
+      "fullName": "Lao Muang Khong",
+      "copyright": "Copyright 2010, 2012 Adobe Systems Incorporated. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
